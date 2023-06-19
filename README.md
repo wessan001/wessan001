@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=4000&pause=1000&color=3BC800&center=true&width=435&lines=Oi%2C+me+chamo+Wesley+Sanches;Sou+desenvolvedor+fullstack+%3A))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=4000&pause=1000&color=3BC800&center=true&width=435&lines=Oi%2C+me+chamo+Wesley+Sanches;Sou+desenvolvedor+fullstack+%3A)](https://git.io/typing-svg)
 
   <p>
   Sou Desenvolvedor Web Fullstack.
