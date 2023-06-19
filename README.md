@@ -7,7 +7,8 @@
   </p>
 
 <br>
-  
+
+  ![Snake animation](https://github.com/wessan001/wessan001/blob/output/github-contribution-grid-snake.svg)
 
   
 
