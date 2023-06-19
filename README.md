@@ -1,30 +1,30 @@
-<h1 align="center">Oi 👋, eu sou Wesley Sanches</h1>
-<h3 align="center">Sou Desenvolvedor Front-end 👨‍💻</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=4000&pause=1000&color=3BC800&center=true&width=435&lines=Oi%2C+me+chamo+Wesley+Sanches;Sou+desenvolvedor+fullstack+%3A))](https://git.io/typing-svg)
 
-[![Contato](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/351910668105)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-sanches-b6573a188/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ws_anches)
+  <p>
+  Sou Desenvolvedor Web Fullstack.
 
+  Estudo Engenharia de Software, atualmente no segundo semestre...
+  </p>
 
-## Tecnologias que uso no meu dia a dia
-
-<div style="display: inline_block"></br>
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-
-</div>
-
-## Sobre meu GitHub
-
-  ![wessan001's Stats](https://github-readme-stats.vercel.app/api?username=wessan001&theme=gotham&show_icons=true&hide_border=true&count_private=true)
-
-![snake gif](https://github.com/wessan001/wessan001/blob/output/github-contribution-grid-snake.gif)
+<br>
   
 
-<div> <p>
+  
 
-Amo tecnologia e adoro aprender mais todos os dias. Aberto para novas oportunidades!
+### Principais Tecnolgias que Uso:
+![JAVASCRIPT](https://img.shields.io/badge/-Javascript-0D1117?style=for-the-badge&logo=JavaScript&logoColor=yellow&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 
-</p>
-</div>
+### Ferramentas:
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+<!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
+
+
+
